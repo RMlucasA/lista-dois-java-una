@@ -1,6 +1,6 @@
 # lista-dois-java-una
 
-lista de exercício doisem java 
+lista de exercício doi de java 
 
 Meu perfil no [linkedin](https://www.linkedin.com/in/lucas-alves-259320274/)
 
